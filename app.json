@@ -1,0 +1,9 @@
+{
+  "name": "ruby-websockets-chat-demo",
+  "description": "A template for getting started with the WebSockets on Heroku using Ruby.",
+  "website": "",
+  "success_url": "/",
+  "addons": ["rediscloud"],
+  "env": {},
+  "scripts": {}
+}
